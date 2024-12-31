@@ -1,6 +1,6 @@
 # 30 DAYS OF DEVOPS :rocket:
 
-Welcome to the **30 DAYS OF DEVOPS** :computer: repository! This repository contains the complete documentation for the **30 DAYS OF DEVOPS** course by [DevOps Shack](https://www.youtube.com/@devopsshack) :tv:.
+Welcome to the **30 DAYS OF DEVOPS**
 
 ## Course Contents
 
